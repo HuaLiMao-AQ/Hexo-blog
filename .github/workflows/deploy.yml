@@ -51,3 +51,4 @@ jobs:
         run: |
           hexo clean
           hexo d -g
+
